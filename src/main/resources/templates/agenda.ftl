@@ -8,5 +8,7 @@
     </li>
 </#list>
 </ul>
+
+<span>Login as user: <strong>${username}</strong>.</span>
 <a href="/logout">Logout</a>
 </html>
